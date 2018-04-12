@@ -1,6 +1,6 @@
 # tsvhtml
 
-Converts [TSV](https://en.wikipedia.org/wiki/Tab-separated_values to HTML.
+Converts [TSV](https://en.wikipedia.org/wiki/Tab-separated_values) to HTML.
 
 Reads a table of data formatted as [table separated values (TSV)](https://en.wikipedia.org/wiki/Tab-separated_values) and writes out as an HTML table that can more easilly be displayed in a web browser.
 
