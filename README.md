@@ -1,8 +1,6 @@
 # tsvhtml
 
-Converts [TSV](https://en.wikipedia.org/wiki/Tab-separated_values) to HTML.
-
-Reads a table of data formatted as [table separated values (TSV)](https://en.wikipedia.org/wiki/Tab-separated_values) and writes out as an HTML table that can more easilly be displayed in a web browser.
+Does nothing more than convert a stream of [tab separated values (TSV)](https://en.wikipedia.org/wiki/Tab-separated_values) to HTML.
 
 ## Examples
 
